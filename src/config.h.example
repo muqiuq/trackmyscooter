@@ -1,0 +1,16 @@
+#ifndef CONFIG_H_
+#define CONFIG_H_
+
+#define TEST_CODE "12"
+#define RECONNECT_CODE "1"
+#define PASSWORD "1122"
+#define WIFI_SSID ""
+// Uncomment if no passphrase
+#define WIFI_PASSPHRASE ""
+
+#define STATUS_SERVER_HOST "1.2.3.4"
+#define STATUS_SERVER_PORT 1000
+
+//#define DEBUG
+
+#endif /* CONFIG_H_ */
